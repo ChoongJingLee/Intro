@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeeChoongJing
 - To view the sample codes I wrote for:
-  - Interface for agents in reinforcement learning:
-  - Interface for discounting rewards and calculating advantages:
+  - Interface for agents in reinforcement learning: https://github.com/LeeChoongJing/AgentTemplate
+  - Calculator for discounting rewards and calculating state's values: https://github.com/LeeChoongJing/GeneralizedAdvantageEstimateCalculator
   - Matrix interfaces: 
 
 
