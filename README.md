@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeeChoongJing
+- 👋 Hi, I’m @ChoongJing Lee
 - To view the sample codes I wrote for:
   - Interface for agents in reinforcement learning: https://github.com/LeeChoongJing/AgentTemplate
   - Calculator for discounting rewards and calculating state's values: https://github.com/LeeChoongJing/GeneralizedAdvantageEstimateCalculator
