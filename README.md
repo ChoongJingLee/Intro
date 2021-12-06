@@ -4,8 +4,12 @@
   - Calculator for discounting rewards and calculating state's values: https://github.com/LeeChoongJing/GeneralizedAdvantageEstimateCalculator
   - Matrix interfaces: 
 
-![Pushblock Example](https://user-images.githubusercontent.com/95456006/144774288-c0c8643d-9ee8-4773-8dec-87f3b074808a.gif)
 
+<details><summary>Robot pushing a block to a goal</summary>
+<p>
+![Pushblock Example](https://user-images.githubusercontent.com/95456006/144774288-c0c8643d-9ee8-4773-8dec-87f3b074808a.gif)
+</p>
+</details>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
