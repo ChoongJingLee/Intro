@@ -5,11 +5,11 @@
   - Matrix interfaces: 
 
 
-<details><summary>Robot pushing a block to a goal</summary>
+<summary>Robot pushing a block to a goal</summary>
   
 ![Pushblock Example](https://user-images.githubusercontent.com/95456006/144774288-c0c8643d-9ee8-4773-8dec-87f3b074808a.gif)
   
-</details>
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
